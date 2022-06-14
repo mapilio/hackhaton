@@ -1,4 +1,5 @@
 # hackhaton
+Pre Script
 
 Visiosoft Nesne Konumlandırma Hackathonuna hoşgeldiniz!
 Hackathonumuzun amacı; yapay zeka tarafından farklı noktalardan tespit edilen objelerin haritada konumlandırılması.
